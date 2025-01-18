@@ -20,7 +20,7 @@ This project allows you to download audio from a YouTube or TikTok video, transc
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/alvarobarrenadev/audio_to_text.git
+    git clone https://github.com/alvarobarrenadev/transcribe_whisper_audio.git
     cd audio_to_text
     ```
 
